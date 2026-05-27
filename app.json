@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PlantLogic AI",
+    "slug": "plantlogic-ai",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "scheme": "plantlogicai",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.horticulturespecialists.plantlogicai"
+    },
+    "android": {
+      "package": "com.horticulturespecialists.plantlogicai",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#F5F1E8"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "companyName": "Horticulture Specialists, LLC",
+      "supportEmail": "horticulturespecialists@gmail.com",
+      "usesLocationTracking": false,
+      "adsEnabled": false
+    }
+  }
+}
